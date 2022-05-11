@@ -1,7 +1,7 @@
 {
   "name": "thotaro_main",
   "version": "1.0.0",
-  "description": "",
+  "description": "Đang là dự án website của Sinh Vũ để xin vị trí Front-end dev;\r Bảng thiết kế web là đồ án của một nhóm bên trường Đại Học Mỹ Thuật TP.HCM (nhóm của người yêu tui :))",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -28,5 +28,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.17.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinhvusinh1997/thotaro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sinhvusinh1997/thotaro/issues"
+  },
+  "homepage": "https://github.com/sinhvusinh1997/thotaro#readme",
+  "keywords": []
 }

@@ -2,7 +2,7 @@
 Đang là dự án website của Sinh Vũ để xin vị trí Front-end dev;
 Bảng thiết kế web là đồ án của một nhóm bên trường Đại Học Mỹ Thuật TP.HCM (nhóm của người yêu tui :))
 
-- Công nghệ: HTML, SCSS, JS thuần, không sử dụng thự viện nào để xây dựng web
+- Công nghệ: HTML, SCSS, JS thuần, Webpack, không sử dụng thự viện nào để xây dựng web
 - responsive: tự build thư viện grid system để chia layout và 6 breakpoints dựa theo w3schol và boostrap.
 
 ## Home page: done
