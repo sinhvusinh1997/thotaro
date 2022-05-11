@@ -1,0 +1,412 @@
+{
+    "product": [
+        {
+            "createdAt": 1651734182,
+            "id": 1,
+            "name": "bình hoa kiểu",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 125,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipO2f475Pgb_LFtwgmnEQz8dR898WfMwVMHwLAvg"
+        },
+        {
+            "createdAt": 1651734171,
+            "id": 2,
+            "name": "tô sứ trang trí",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 45,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNMOOddLSBfyrnOHIDlKFctYdC4ZSUK4ty5C8fL"
+        },
+        {
+            "createdAt": 1651734111,
+            "id": 3,
+            "name": "hũ đựng gia vị",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 20,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipPcjgPjIeDmFVQWQK5wXxaRgzqDL0R9bQeDG5yk"
+        },
+        {
+            "createdAt": 1651734051,
+            "id": 4,
+            "name": "chuông neko",
+            "type": "handmade",
+            "isHot": true,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 150,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNWGCI7FXMuj-bmSf6RrDXqqdZ9CpNvNoM0k9Jb"
+        },
+        {
+            "createdAt": 1651733991,
+            "id": 5,
+            "name": "pallet màu",
+            "type": "tool",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 50,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNm-6ERXqAJc8fvC94sT9QWGO8LuxoyoxULnmJh"
+        },
+        {
+            "createdAt": 1651733931,
+            "id": 6,
+            "name": "đồ gác cọ",
+            "type": "tool",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 25,
+            "url": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipMV1jHn0KYS-aW2Ue0wBtRXhr_Xx5Sno1r7-dJj"
+        },
+        {
+            "createdAt": 1651733871,
+            "id": 7,
+            "name": "cốc",
+            "type": "handmade",
+            "isHot": true,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 50,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipMcx5XHi1cVpu6ODhLrmxTm5yATh4ox6476yJgA"
+        },
+        {
+            "createdAt": 1651733811,
+            "id": 8,
+            "name": "bộ ấm trà",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 350,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNNsd78K7IZD1VOa8D_FuNeiSfgGqmw-Ne6AuLt"
+        },
+        {
+            "createdAt": 1651733751,
+            "id": 9,
+            "name": "đồ vắt cam",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 75,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipMFqPEluXGbhpHS8sagRw1QOR1dc9Tm6-uTB9YI"
+        },
+        {
+            "createdAt": 1651733691,
+            "id": 10,
+            "name": "chậu hoa kiểu",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 150,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNRG0NBVR31E-cE9y0hr2fS5HQBbWRb5RJnPGMX"
+        },
+        {
+            "createdAt": 1651733631,
+            "id": 11,
+            "name": "bộ chậu cây",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 200,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipOk7-oM-UgEqpGV-XQ0J8HPOQa8VF62cdRNpGRQ"
+        },
+        {
+            "createdAt": 1651733571,
+            "id": 12,
+            "name": "bộ tô chén",
+            "type": "handmade",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 200,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipPjk7Oy7RF7vogiSpwkipEbwbje3j6TeUabyo6D"
+        },
+        {
+            "createdAt": 1651733511,
+            "id": 13,
+            "name": "dao cắt chuyên dụng",
+            "type": "tool",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 80,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipPieCdv-vAT1CKq1-H0d3pqM2vybIVx4FjCbgKX"
+        },
+        {
+            "createdAt": 1651733451,
+            "id": 14,
+            "name": "bộ cọ, màu vẽ",
+            "type": "tool",
+            "isHot": false,
+            "isDiscount": true,
+            "percentDiscount": 0.27,
+            "price": 95,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipO0NZqyBviraovt1qO78nVGxPicVZUSCpIQdn0a"
+        },
+        {
+            "createdAt": 1651733391,
+            "id": 15,
+            "name": "dụng cụ tạo hiệu ứng",
+            "type": "tool",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 15,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNXwpgOuIaxGGWg5Pdcay-b6hDaWUivUZuTIezi"
+        },
+        {
+            "createdAt": 1651733331,
+            "id": 16,
+            "name": "dụng cụ khắc",
+            "type": "tool",
+            "isHot": true,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 25,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipNxOy2KzyFbIUF17vuaQBUBN7BjSiX5PD3FLY5R "
+        },
+        {
+            "createdAt": 1651733271,
+            "id": 17,
+            "name": "dụng cụ gọt",
+            "type": "",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 20,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipPaTEfCtvys4k8Yythp5Q7fQtlDez2NTSWhNgSx"
+        },
+        {
+            "createdAt": 1651733211,
+            "id": 18,
+            "name": "bàn xoay",
+            "type": "tool",
+            "isHot": false,
+            "isDiscount": false,
+            "percentDiscount": 0.2,
+            "price": 20,
+            "URLImage": "https://photos.google.com/album/AF1QipOgicjD6hkdzWXJqMqfNt673hGDuAOybPZldflu/photo/AF1QipPV6pOGSqLkgOMr1X390JCpQUJx7eEW6lb1VADJ"
+        }
+    ],
+    "artical": [
+        {
+            "id": 1,
+            "title": "hướng dẫn tạo đồ gốm từ đất sét.",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipON0iqYAtoTXbQ-D7owUrk3Pg0pfrTQtMwVgv-2"
+        },
+        {
+            "id": 2,
+            "title": "các công cụ làm gốm cơ bản.",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipNA3r0Fnc4Ju9WJoiMM_BDJERlsq3Kpz4stMvO5"
+        },
+        {
+            "id": 3,
+            "title": "làm chủ men gốm sứ cho người mới bắt đầu.",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipMPhumxaKH6X8tz-mKCC9X-ZpvqbbInffm7qA5F"
+        },
+        {
+            "id": 4,
+            "title": "chất màu gốm và men",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipNwl3xOkds9gBu-fbtU01-sHPWg5ZEj8OcRaa-A"
+        },
+        {
+            "id": 5,
+            "title": "10 kỹ thuật cọ cho gốm sứ",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipML89c_ywmaq1PjiIGzqqGvRXpbT4MS7hAiJAv-"
+        },
+        {
+            "id": 6,
+            "title": "agateware là gì và nó được tạo như thế nào?",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipPCu0SXS4ZfNO__s7S9dL9UdHXYMSm-aGXrqhOV"
+        },
+        {
+            "id": 7,
+            "title": "nguyên nhân phổ biến của các khiếm khuyết men trên đất sét",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipMJ2ZyucU1PkMN5eDHksCuge8QjscuxroZgOKtk"
+        },
+        {
+            "id": 8,
+            "title": "4 thành phần men gốm",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipMjLBWV6RNIxks6EnpzQMp4zOoOV4e5PdpalS4A"
+        },
+        {
+            "id": 9,
+            "title": "gốm raku",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipPv6JLsXU11pUzioPJJmHtRBaUta4bT2eeGHVuw"
+        },
+        {
+            "id": 10,
+            "title": "kintsugi -'Vẽ đẹp của sự không hoàn hảo'",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipM653Xu_0k6FWG1NBZ7n5b-Mty6n_yaOZerf4Ua"
+        },
+        {
+            "id": 11,
+            "title": "5 phương pháp vẽ đồ gốm",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipNrXNChEi4R244VrxPCfcYiI6xAcI5aF2q5GFSI"
+        },
+        {
+            "id": 12,
+            "title": "làm thế nào để tráng men gốm",
+            "author": "unknown",
+            "content": "NOT avaiable",
+            "URLImage": "https://photos.google.com/album/AF1QipNNkGr--z_4U0vXHSmVXxPg6HbVjYM-9x6u5gSn/photo/AF1QipMaRICVk0SipdgPnm6BbCFpzugQN0S1Aok7hT6L"
+        }
+    ],
+    "banner": [
+        {
+            "id": 1,
+            "URLImage": "https://photos.google.com/album/AF1QipPhdPqmVminWpKS9y7sYd_49PMcM7deMawZqu4P/photo/AF1QipPGjQAV4seONSOU03GPP59bE3Y1yXXKHAkhHy68",
+            "content": "Bạn đam mê làm đồ handmade để trang trí thêm cho mái ấm của bạn. Hãy để chúng tôi giới thiệu cho bạn một số workshop sẽ giúp bạn vừa giải tỏacăng thẳng vừa giúp bạn sống với đam mê !!! "
+        },
+        {
+            "id": 2,
+            "URLImage": "https://photos.google.com/album/AF1QipPhdPqmVminWpKS9y7sYd_49PMcM7deMawZqu4P/photo/AF1QipMAoDzBvgfXt_wHjDwNlcb0EbL1It2WrJEFQnxz",
+            "content": "Hãy cùng chúng tôi để trang bị những kiến thức cơ bản.Cách sử dụng đất sét địa phương trong đồ gốm của bạn? Những loại đất dùng trong chế tạo đồ gốm ..."
+        },
+        {
+            "id": 3,
+            "URLImage": "https://photos.google.com/album/AF1QipPhdPqmVminWpKS9y7sYd_49PMcM7deMawZqu4P/photo/AF1QipPW-bT5xLi_p_MpagsH2ru-AG1hUva6KOIQE7IO",
+            "content": "Bạn yêu thích làm đồ gốm ?? Hãy để chúng tôi giúp bạn. Tham gia ngay lớp làm gốm cho người mới bắt đầu ngay để nhận ưu đãi."
+        },
+        {
+            "id": 4,
+            "URLImage": "https://photos.google.com/album/AF1QipPhdPqmVminWpKS9y7sYd_49PMcM7deMawZqu4P/photo/AF1QipN0VEg7CZpmbX4Hlk6dy_FnWid-Wfv79v_d6Iqb",
+            "content": "Bạn đã có thể tạo ra những mẫu gốm cơ bản? Bạn muốn tạo ra những món đồ gốm theo phong cách, cá tính của chính bạn. hãy tham gia cùng chúng tôi và chúng tôi sẽ giúp bạn"
+        },
+        {
+            "id": 5,
+            "URLImage": "https://photos.google.com/album/AF1QipPhdPqmVminWpKS9y7sYd_49PMcM7deMawZqu4P/photo/AF1QipO4ISefcaWBMIqtjdVxPk9rFL8zPWQ-QBfoCKGa",
+            "content": "Bạn đam mê nghệ thuật, đam mê sáng tạo, hay đến với workshop của chúng tôi.Thỏa sức sáng tạo, cháy hết mình cùng đam mê …"
+        },
+        {
+            "id": 6,
+            "URLImage": "https://photos.google.com/album/AF1QipPhdPqmVminWpKS9y7sYd_49PMcM7deMawZqu4P/photo/AF1QipO2m-byR5czq-KWFoScfrFv-Mg26-WWxTpwwHym",
+            "content": "Bạn đang tìm kiếm một món quà đặc biệt để tặng cho người  bạn thương. Hãy để chúng tôi giúp bạn làm nên một món quà mang trọn tâm tình của bạn dành cho người ấy."
+        }
+    ],
+    "artist": [
+        {
+            "id": 1,
+            "name": "hoa hoa",
+            "nation": "china",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipO1GkmgR217rqDXsIEE4aH10qX8hTAs9RBqKNit",
+            "products": {}
+        },
+        {
+            "id": 2,
+            "name": "yamazaki kento",
+            "nation": "japan",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipMz2HJ7PGtAAsuHAE9RGHeazHTvxnUWVxA3ItkJ",
+            "products": {}
+        },
+        {
+            "id": 3,
+            "name": "sabiha ayari",
+            "nation": "belgium",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipMS8wXz8Pd97hQhSfHe0442fn6OuRfYNZlh9wMv",
+            "products": {}
+        },
+        {
+            "id": 4,
+            "name": "tô thanh sơn",
+            "nation": "vietnam",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipM_t9-18b_xrWRrH13swc5eclf7TtYkaPUFiiQ7",
+            "products": {}
+        },
+        {
+            "id": 5,
+            "name": "florian gadsby",
+            "nation": "england",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipNr3bNPw208wwAvlro3cXgXfvJfipLErVS4VT-Y",
+            "products": {}
+        },
+        {
+            "id": 6,
+            "name": "claire fowler",
+            "nation": "england",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipN4fnxFWTQo0nLmrPEv5AjWAoKE20S3dET8hm4F",
+            "products": {}
+        },
+        {
+            "id": 7,
+            "name": "andrea lewis",
+            "nation": "austin",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipPED-iW1YM5oLOYjeKEvBgfDQm5iyr-WQn09NWD",
+            "products": {}
+        },
+        {
+            "id": 8,
+            "name": "phạm thế anh",
+            "nation": "vietnam",
+            "URLAvatar": "https://photos.google.com/album/AF1QipN26juRhaw0gwqWSpLIKW3o3O7DkEOxe-Zngs3v/photo/AF1QipNYz-KJDLBtndUuL5NYuQwhitxP4GMPARJWMtcC",
+            "products": {}
+        }
+    ],
+    "albumHome": [
+        {
+            "id": 1,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipPiVKQPpfQMhr0RwWh2D9xBJZYVLxZr9kThd52X" 
+        },
+        {
+            "id": 2,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipN2UHpqkolAQ62i3LJGkQlMWb02DAAi3WgXqJe5" 
+        },
+        {
+            "id": 3,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipPzjbH9ALhK0RbsODGAGUSig8nh4YNjK2P5QNzF" 
+        },
+        {
+            "id": 4,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipM8J4SjrThQQoCpaAwz0VbHLFJNqLpxUDNViVem" 
+        },
+        {
+            "id": 5,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipPDciphQakC96BAg3IAlNN_YGkfdqU19sIfmxj3" 
+        },
+        {
+            "id": 6,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipNKQvAECHty_xc77bYugwgFjkgMoWf6m4ML6eK2" 
+        },
+        {
+            "id": 7,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipP6xdc72-6Q_vfaejQSGGEa3jwiW0FnVvjSeHGq" 
+        },
+        {
+            "id": 8,
+            "URLImage": "https://photos.google.com/album/AF1QipOHw475hrMwG3aEPZ4iRDxjUYZ2R7eOUVgSMmEj/photo/AF1QipP_LewfzbfJKeqXa8zS4MvrBlnHsiNDlXtqSxGy" 
+        }
+    ]
+}
